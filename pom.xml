@@ -32,6 +32,27 @@
 	<dependencies>
 
 		<dependency>
+			<groupId>io.github.locke-chappel.oss.commons</groupId>
+			<artifactId>jpa</artifactId>
+			<version>1.0.19</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<version>9.1-901-1.jdbc4</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>r2dbc-postgresql</artifactId>
+			<version>1.0.7.RELEASE</version>
+		</dependency>
+
+
+		<dependency>
 			<groupId>org.apache.karaf.jpa</groupId>
 			<artifactId>jpa-parent</artifactId>
 			<version>4.3.0.RC1</version>
