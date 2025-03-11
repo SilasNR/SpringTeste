@@ -1,4 +1,4 @@
-package com.teste.primeiro_teste.domain;
+package com.teste.primeiro_teste.domain.usuario;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

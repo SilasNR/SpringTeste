@@ -7,14 +7,12 @@ import javax.xml.crypto.Data;
 import org.springframework.data.annotation.Id;
 
 import jakarta.annotation.Generated;
-import jakarta.
 import lombok.Getter;
 import lombok.Setter;
 
-@Table()
+
 public class produto {
     @Id
-    @Generated
     private UUID ID;
 
     private String cn;

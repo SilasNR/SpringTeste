@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.teste.primeiro_teste.domain.usuario;
+import com.teste.primeiro_teste.domain.usuario.usuario;
 import com.teste.primeiro_teste.service.teste_service;
 
 import org.springframework.web.bind.annotation.PostMapping;
